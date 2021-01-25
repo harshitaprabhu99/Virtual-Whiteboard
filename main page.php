@@ -69,7 +69,7 @@
     
     
             
-    <header class="masthead" style="background-image:url('assets/img/laptop-336373_1920.jpg');">
+    <header class="masthead" style="background-image:url('.jpg');">
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in"><span>Welcome To Our Page!</span></div>
@@ -107,24 +107,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
-                    <div class="team-member" ><img class="rounded-circle mx-auto" src="assets/img/team/Harshi.jpg">
-                        <h4>Harshita C Prabhu B</h4>
+                    <div class="team-member" ><img class="rounded-circle mx-auto" src=".jpg">
+                        <h4>Name</h4>
                         <p class="text-muted">UI/UX Developer</p>
                         <ul class="list-inline social-buttons">
-                            <li class="list-inline-item"><a href="https://twitter.com/harshitacprabhu"><i class="fa fa-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100003039939870"><i class="fa fa-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="https://www.linkedin.com/in/harshitaprabhu/"><i class="fa fa-linkedin"></i></a></li>
+                            <li class="list-inline-item"><a href=""><i class="fa fa-twitter"></i></a></li>
+                            <li class="list-inline-item"><a href=""><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href=""><i class="fa fa-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member"><img class="rounded-circle mx-auto" src="assets/img/team/Rally.jpg">
-                        <h4>Chaitraly</h4>
+                        <h4>Name 2</h4>
                         <p class="text-muted">UI Designer</p>
                         <ul class="list-inline social-buttons">
-                            <li class="list-inline-item"><a href="https://instagram.com/miss_innocency?igshid=49g24sa4ngw2"><i class="fa fa-instagram"></i></a></li>
-                            <li class="list-inline-item"><a href="https://www.facebook.com/chaithrali.salian"><i class="fa fa-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="https://www.linkedin.com/in/chaithrali-salian-61b728194"><i class="fa fa-linkedin"></i></a></li>
+                            <li class="list-inline-item"><a href=""><i class="fa fa-instagram"></i></a></li>
+                            <li class="list-inline-item"><a href=""><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href=""><i class="fa fa-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
         </div>
     </section>
     
-    <section id="contact" style="background-image:url('assets/img/map-image.png');">
+    <section id="contact" style="background-image:url('.png');">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
